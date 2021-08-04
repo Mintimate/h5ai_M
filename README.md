@@ -4,6 +4,10 @@ Depend On :
 
 I haven't fully parsed all of the config files (especially JavaScript), so I'm not sure if it is stable and if there are any bugs. That why I did not request to merge into the main project branch.😓
 
+If you have the Linux device(e.g Raspberry Pi、Linux Server) , but you don't know how to install Nginx or PHP.
+You can see this post to learn how to make them,and then install h5ai in your device：
+- https://cloud.tencent.com/developer/article/1856001
+
 2021.08.04
 
 Improve The h5ai_dplayer's h5ai to Version 0.30.0.
