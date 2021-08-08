@@ -17,8 +17,8 @@ Make the new login.php for this project: [Details](#authorized-login)
 Improve The h5ai_dplayer's h5ai to Version 0.30.0.
 
 ## Authorized Login
-I make a simple Authorized by PHP (No SQL):
-[The Demo IMG](demo/login.png)
+Make a simple Authorized by PHP (No SQL):
+![The Demo IMG](demo/login.png)
 The Default Username And Password:
 - Username: admin
 - Password: admin
