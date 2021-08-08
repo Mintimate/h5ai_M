@@ -9,7 +9,8 @@ You can see this post to learn how to make them,and then install h5ai in your de
 - https://cloud.tencent.com/developer/article/1856001
 
 2021.08.08
-Make the new login.php for this project.
+
+Make the new login.php for this project: [Details](#authorized-login)
 
 2021.08.04
 
