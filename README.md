@@ -8,9 +8,33 @@ If you have the Linux device(e.g Raspberry Pi、Linux Server) , but you don't kn
 You can see this post to learn how to make them,and then install h5ai in your device：
 - https://cloud.tencent.com/developer/article/1856001
 
+2021.08.08
+Make the new login.php for this project.
+
 2021.08.04
 
 Improve The h5ai_dplayer's h5ai to Version 0.30.0.
+
+## Authorized Login
+I make a simple Authorized by PHP (No SQL):
+[The Demo IMG](demo/login.png)
+The Default Username And Password:
+- Username: admin
+- Password: admin
+
+### Remove Authorized
+If you don't need authorized, just open `_h5ai/public/index.php` and add `#` before `include 'login.php';`：
+```
+#include 'login.php';
+```
+
+### Change Username OR Password
+If you want to change username or password, open  `_h5ai/public/login.php`: 
+```
+$cat_user 
+$cat_password
+```
+
 
 ## Upstream Project log
 
