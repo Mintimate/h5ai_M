@@ -8,6 +8,9 @@ If you have the Linux device(e.g Raspberry Pi、Linux Server) , but you don't kn
 You can see this post to learn how to make them,and then install h5ai in your device：
 - https://cloud.tencent.com/developer/article/1856001
 
+2021.09.04
+Fix File's Sort.(Thanks For **〖氨基酸〗♂**)
+
 2021.08.08
 
 Make the new login.php for this project: [Details](#authorized-login)
